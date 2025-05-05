@@ -22,9 +22,5 @@ Inspired by the Jazz-Fusion band of the same name.
 ## 🚀 Usage
 ```bash
 bash weather-report.sh
-
 ```
-## TODO
-- Which API service?
-- How to configure? .yaml files where the user manually edits, or a setup script that guides and prompts user? Maybe both.
-- Where is it stored? /bin? Do I need root permissions for this?
+
