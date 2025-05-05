@@ -1,4 +1,27 @@
+# ===.gitignore file <2025-05-05>===
+#
+# =Swap/backup files from Vim/Neovim=
 *.swp
-*.bak
-.env
+*.swo
+*~
+#
+# =Log files=
 *.log
+#
+# =Compiled binaries=
+*.out
+*.o
+*.bin
+#
+# =OS/Editor specific files=
+.DS_Store
+Thumbs.db
+#
+# =Cache & history=
+.cache/
+.history/
+__pycache__/
+# =Ignore system or personal directories=
+.env
+secrets.env
+
