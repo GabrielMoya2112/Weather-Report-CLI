@@ -9,7 +9,8 @@
 |                                                                               888                               |  
 |                                                                               888                               |
 |-----------------------------------------------------------------------------------------------------------------|
-``
+```
+
 Weather Report: a minimalist shell script that fetches and displays your local weather on the terminal.
 Inspired by the Jazz-Fusion band of the same name.
 
